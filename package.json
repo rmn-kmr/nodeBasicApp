@@ -1,0 +1,11 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "my first node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "nothing"
+  },
+  "author": "Raman kumar",
+  "license": "ISC"
+}
